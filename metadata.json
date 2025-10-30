@@ -1,0 +1,5 @@
+{
+  "name": "vibe_fashion",
+  "description": "Gemini API(Nano Banana)를 사용하여 가상 피팅룸을 만드는 애플리케이션입니다. 사용자는 인물 사진과 의류 사진을 업로드하여 해당 인물이 옷을 입은 생성된 이미지를 볼 수 있습니다.",
+  "requestFramePermissions": []
+}
